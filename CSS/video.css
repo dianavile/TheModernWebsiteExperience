@@ -1,0 +1,56 @@
+#useless-video {
+  width: 300px;
+  height: 300px;
+  padding: 20px;
+
+  position: fixed;
+  bottom: 0;
+  right: 290px;
+
+  border: 1px solid black;
+  background: #2f4f4f;
+  z-index: 2;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+
+  display: none;
+}
+
+.useless-video__play-button {
+  cursor: pointer;
+  width: 100px;
+  height: 100px;
+  border-radius: 50px;
+  background: white;
+  position: relative;
+}
+
+.useless-video__play-text {
+  cursor: pointer;
+  margin-top: 10px;
+  color: white;
+  font-weight: bold;
+}
+
+.useless-video__no-play-text {
+  color: white;
+  font-weight: bold;
+  display: none;
+  text-align: center;
+}
+
+.useless-video__play-icon {
+  position: absolute;
+  top: 16px;
+  left: 30px;
+
+  width: 0;
+  height: 0;
+  border: 0 solid transparent;
+  border-bottom-width: 35px;
+  border-top-width: 35px;
+  border-left: 54px solid black;
+}

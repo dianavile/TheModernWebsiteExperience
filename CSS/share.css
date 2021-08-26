@@ -1,0 +1,44 @@
+.content {
+    position: relative;
+}
+#share {
+    position: absolute;
+    top: 110px;
+    left: -160px;
+    display: none;
+}
+
+
+.share__twitter {
+    background: lightblue;
+    color: white;
+    padding: 5px 10px;
+    width: 160px;
+    text-align: left;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.share__instagram {
+    background: orangered;
+    color: white;
+    padding: 5px 10px;
+    width: 160px;
+    text-align: left;
+    cursor: pointer;
+}
+.share__tiktok {
+    background: black;
+    color: white;
+    padding: 5px 10px;
+    width: 160px;
+    text-align: left;
+    cursor: pointer;
+}
+.share__linkedin {
+    background: blue;
+    color: white;
+    padding: 5px 10px;
+    width: 160px;
+    text-align: left;
+    cursor: pointer;
+}

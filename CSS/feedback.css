@@ -1,0 +1,55 @@
+.feedback-icon {
+    position: fixed;
+    bottom: 20px;
+    left: 20px;
+    width: 120px;
+    height: 40px;
+    border-radius: 20px;
+    background: #3367d6;
+    z-index: 3;
+    color: white;
+    text-align: center;
+    line-height: 40px;
+    display: none;
+}
+.feedback-container {
+    border: 1px solid grey;
+    position: fixed;
+    bottom: 72px;
+    left: 20px;
+    width: 300px;
+    height: 480px;
+    z-index: 3;
+    background: white;
+    border-radius: 6px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 50%);
+    display: none;
+}
+.feedback-container__title {
+    padding: 10px;
+    text-align: center;
+    border-bottom: 1px solid lightgrey;
+    font-size: 18px;
+}
+.feedback-container__comment {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid lightgrey;
+    border-radius: 6px;
+    margin: 20px auto 0;
+    width: 260px;
+    height: 360px;
+    display: block;
+    outline: none;
+    resize: none;
+}
+
+.feedback-container__submit {
+    background: transparent;
+    border: 1px solid lightgrey;
+    padding: 5px 10px;
+    margin-top: 10px;
+    border-radius: 4px;
+    float: right;
+    margin-right: 20px;
+}

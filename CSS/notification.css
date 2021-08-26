@@ -1,0 +1,107 @@
+#notification-fake-permission {
+    height: 180px;
+    width: 100%;
+
+    position: fixed;
+    top: -180px;
+    left: 0;
+
+    z-index: 2;
+}
+
+.notification-fake-permission__content {
+    background: white;
+
+    border-radius: 8px;
+    box-shadow: 0 1px 6px rgba(5,27,44,.06),0 2px 32px rgba(5,27,44,.16);
+
+    width: 500px;
+    height: 100%;
+
+    padding: 24px;
+    margin: 0 auto;
+    position: relative;
+}
+
+.notification-fake-permission__button {
+    padding: 12px 24px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+}
+
+.notification-fake-permission__button__confirm {
+    color: white;
+    border-radius: 4px;
+    background: rgb(0, 120, 209);
+    
+    right: 24px;
+    bottom: 24px;
+}
+
+.notification-fake-permission__button__cancel {
+    color: black;
+    background: transparent;
+
+    right: 130px;
+    bottom: 24px;
+}
+
+#notification-real-permission {
+    display: none;
+    background: white;
+    border-radius: 8px;
+    border: 1px solid black;
+    box-shadow: 0 1px 8px rgb(0 0 0 / 30%);
+    width: 430px;
+    height: 150px;
+    padding: 10px;
+    font-size: 14px;
+
+    position: fixed;
+    top: 0;
+    left: 170px;
+
+    z-index: 2;
+}
+
+.notification-real-permission__button {
+    position: absolute;
+    background: transparent;
+    border: 1px solid lightgrey;
+    padding: 8px 15px;
+    border-radius: 4px;
+    color: blue;
+    cursor: pointer;
+}
+
+.notification-real-permission__close {
+    position: absolute;
+    right: 18px;
+    top: 10px;
+    background: transparent;
+    border: none;
+    font-size: 15px;
+    color: black;
+    cursor: pointer;
+}
+
+.notification-real-permission__allow {
+    right: 90px;
+    bottom: 16px;
+}
+
+.notification-real-permission__block {
+    right: 16px;
+    bottom: 16px;
+}
+
+.notification-real-permission__website {
+    margin-top: 15px;
+    font-size: 16px;
+}
+
+.notification-real-permission__action {
+    margin-top: 10px;
+}

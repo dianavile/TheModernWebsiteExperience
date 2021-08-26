@@ -1,0 +1,9 @@
+.discount-banner {
+    height: 40px;
+    background: #3367d6;
+    color: white;
+    line-height: 40px;
+    text-align: center;
+    font-size: 16px;
+    display: none;
+}
