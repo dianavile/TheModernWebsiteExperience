@@ -23,9 +23,9 @@ then here it is:
 
 Because they make the web:
 
-- beautiful (CSS, visuals)
-- less annoying (HTML, information structure)
-- less confusing (UX research)
+- BEAUTIFUL (CSS, visuals)
+- LESS annoying (HTML, information structure)
+- LESS confusing (UX research)
 
 And they all do it in an "INVISIBLE" way.
 The less you notice their job, the better!
