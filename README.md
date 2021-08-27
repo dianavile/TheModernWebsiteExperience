@@ -2,7 +2,7 @@
 
 Searching on the web could be a little annoying these days. Did you ever experience one of these blockers?
 
-## Demo
+## Demo on [CodeSandbox](https://codesandbox.io/s/inspiring-orla-fhp1s?file=/README.md)
 
 ![TheModernWebsiteExperience](https://github.com/dianavile/TheModernWebsiteExperience/blob/main/img/TheModernWebsiteExperience.JPG)
 
