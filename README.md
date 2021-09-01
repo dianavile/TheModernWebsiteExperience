@@ -2,7 +2,7 @@
 
 Searching on the web could be a little annoying these days. Did you ever experience one of these blockers?
 
-## Demo on [CodeSandbox](https://codesandbox.io/s/inspiring-orla-fhp1s?file=/README.md)
+## Demo on [CodeSandbox](https://codesandbox.io/s/inspiring-orla-fhp1s?file=/README.md) and [Netlify](https://hardcore-cori-52d3f3.netlify.app/)
 
 ![TheModernWebsiteExperience](https://github.com/dianavile/TheModernWebsiteExperience/blob/main/img/TheModernWebsiteExperience.JPG)
 
