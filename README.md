@@ -32,6 +32,4 @@ The less you notice their job, the better!
 
 Next time you see a UX designer give them a blink.
 They help making annoyed web users happy.
-And don´t worry, developers will still be able to solve problems. Any problem, really:)
-
-You are welcome!
+And don´t worry, developers will still be able to solve problems. Any problem!) 
